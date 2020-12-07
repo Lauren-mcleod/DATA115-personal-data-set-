@@ -2,7 +2,7 @@
 
 **Motivation**
   
-  My motivation for investigating shark attack data was to dive deepeer into the location and activities performed when people are attacked by sharks. Sharks play a vital role in the ocean and are often misrepresented. I found this topic interesting and had potential for a variety of research questions. I narrowed down my focus to the activity shark attack victims were doing when attacked.
+  My motivation for investigating shark attack data was to dive deepeer into the location and activities performed when people are attacked by sharks. Sharks play a vital role in the ocean and are often misrepresented in media. I found this topic interesting and had potential for a variety of research questions. I narrowed down my focus to the activity shark attack victims were doing when attacked.
   
  **Data sources**
  
@@ -23,5 +23,7 @@ This figure shows the activities shark attack victims across the globe were doin
 
 **Analysis**
 
-Now knowing the most common activity I made a heatmap showing most unprovoked shark attacks are when someone is surfing.
+Now knowing that globally the most shark attacks take place while someone is surfing. I decided to make a heatmap showing acitivity and whether the attack was provoked or unprovoked.
 ![Provoked vs. Unprovoked](https://github.com/Lauren-mcleod/DATA115-personal-data-set-/blob/master/provoked_unprovokedhm.png)
+
+The heat map clearly shows that no matter where you are in the globe you are most likely to be attacked unprovoked while surfing. 
