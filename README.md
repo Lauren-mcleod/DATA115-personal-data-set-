@@ -23,5 +23,5 @@ This figure shows the activities shark attack victims across the globe were doin
 
 **Analysis**
 
-Now knowing the most common activity  
-![Provoked vs. Unprovoked]
+Now knowing the most common activity I made a heatmap showing most unprovoked shark attacks are when someone is surfing.
+![Provoked vs. Unprovoked](https://github.com/Lauren-mcleod/DATA115-personal-data-set-/blob/master/provoked_unprovokedhm.png)
