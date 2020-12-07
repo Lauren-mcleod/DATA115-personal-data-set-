@@ -24,6 +24,7 @@ This figure shows the activities shark attack victims across the globe were doin
 **Analysis**
 
 Now knowing that globally the most shark attacks take place while someone is surfing. I decided to make a heatmap showing acitivity and whether the attack was provoked or unprovoked.
+
 ![Provoked vs. Unprovoked](https://github.com/Lauren-mcleod/DATA115-personal-data-set-/blob/master/provoked_unprovokedhm.png)
 
 The heat map clearly shows that no matter where you are in the globe you are most likely to be attacked unprovoked while surfing. 
