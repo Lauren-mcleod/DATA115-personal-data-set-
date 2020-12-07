@@ -2,7 +2,7 @@
 
 **Motivation**
   
-  My motivation for investigating shark attack data was to dive deepeer into the location and activities performed when people are attacked by sharks. Sharks play a vital role in the ocean and are often misrepresented in media. I found this topic interesting and had potential for a variety of research questions. I narrowed down my focus to the activity shark attack victims were doing when attacked.
+  My motivation for investigating shark attack data was to dive deeper into the location and activities performed when people are attacked by sharks. Sharks play a vital role in the ocean and are often misrepresented in media. I found this topic interesting and had potential for a variety of research questions. I narrowed down my focus to the activity shark attack victims were doing when attacked.
   
  **Data sources**
  
