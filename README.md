@@ -10,11 +10,12 @@
  
  **Processing Steps**
  
-Since the data provided was already in a well organized pivot table in excel in the file shark_attacks_first_file , all of my processing was removing data that did not directly relate to my main focus. Initially when processing the data I discovered there isn't a true definition of an attack. I decided for my project to define a shark attack as the victim having an injury. The majority of cleaning was removing the reports of kayaks being bumped by a shark swimming by or attacks that were post mortum. The next step in processing the data is I narrowed down the information provided about every attack. Since my project is mainly focused on activity, I removed the data 
+Since the raw data provided was already in a well organized pivot table in excel in the file shark-attacks.first.file, all of my processing was removing data that did not directly relate to my main focus. Initially when processing the data I discovered there isn't a true definition of an attack. I decided for my project to define a shark attack as the victim having an injury. This lead me to remove the reports of kayaks being bumped by a shark swimming by or attacks that were post mortum. The next step in processing the data is I narrowed down the information provided about every attack. Since my project is mainly focused on activity, I removed the Name, Age, Species of Shark, Time and Investigator columns. 
 
 **Visualization**
 
-After 
+After narrowing down the information, I made a bar chart showing the activities victims were doing when attacked by a Shark. Each activity is represented by a bar and shows 
+
 
 ![International activies done when getting attacked by Sharks](https://raw.githubusercontent.com/Lauren-mcleod/DATA115-personal-data-set-/master/activityplot2.png)
 
