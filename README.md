@@ -24,3 +24,4 @@ This figure shows the activities shark attack victims across the globe were doin
 **Analysis**
 
 For my analysis I wanted to findout more about to attacks and see whether they were provoked or unprovoked. 
+![Provoked vs. Unprovoked](https://github.com/Lauren-mcleod/DATA115-personal-data-set-/blob/master/provoked_unprovoked2.png)
