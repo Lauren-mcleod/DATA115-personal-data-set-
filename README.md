@@ -6,7 +6,7 @@
   
  **Data sources**
  
- The raw data came from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm). The GSAF is an organization providing an excel document with the details of reported shark attacks. This includes the location, activity, type of shark, and the injuries from the attack. The raw data comes from the The Global Shark Attack File's field reporters spread all over the globe gathering data. Additionally, anyone can contact them reporting an attack, which the organization will investigate and add to their data. 
+ The raw data came from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm). The GSAF is an organization providing an excel document with the details of reported shark attacks. This includes the location, activity, type of shark, and the injuries from the attack. The raw data comes from the The Global Shark Attack File's field reporters spread all over the globe gathering data. Additionally, anyone can contact them to report an attack, which the organization will investigate and add to their data. 
  
  **Processing Steps**
  
@@ -14,7 +14,7 @@ Since the raw data provided was already in a well organized pivot table in excel
 
 **Visualization**
 
-After narrowing down the information, I made a bar chart showing the activities victims were doing when attacked by a Shark. Each activity is reported is represented as a bar. 
+After narrowing down the information, I made a bar chart showing the activities victims were doing when attacked by a Shark. Each activity reported is represented as a bar. 
 
 
 ![International activies done when getting attacked by Sharks](https://raw.githubusercontent.com/Lauren-mcleod/DATA115-personal-data-set-/master/activityplot2.png)
