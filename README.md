@@ -10,7 +10,7 @@
  
  **Processing Steps**
  
-Since the data provided was already in a well organized excel file, all of my processing was removing data that did not directly relate to my main focus. Initially when processing the data I discovered there isn't a true definition of an attack. I decided for my project to define a shark attack as the victim having an injury. The majority of cleaning was removing the reports of kayaks being bumped by a shark swimming by or attacks that were post mortum. The next step in processing the data is I narrowed down the information provided about every attack. Since my project is mainly focused on activity, 
+Since the data provided was already in a well organized pivot table in excel, all of my processing was removing data that did not directly relate to my main focus. Initially when processing the data I discovered there isn't a true definition of an attack. I decided for my project to define a shark attack as the victim having an injury. The majority of cleaning was removing the reports of kayaks being bumped by a shark swimming by or attacks that were post mortum. The next step in processing the data is I narrowed down the information provided about every attack. Since my project is mainly focused on activity, I removed the data 
 
 **Visualization**
 
