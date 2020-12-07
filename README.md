@@ -14,11 +14,13 @@ Since the raw data provided was already in a well organized pivot table in excel
 
 **Visualization**
 
-After narrowing down the information, I made a bar chart showing the activities victims were doing when attacked by a Shark. Each activity reported is represented as a bar. 
+After narrowing down the information, I made a bar chart showing the activities victims were doing when attacked by a Shark. The most common 20 activities reported are represented as a bar. 
 
 
 ![International activies done when getting attacked by Sharks](https://raw.githubusercontent.com/Lauren-mcleod/DATA115-personal-data-set-/master/activityplot2.png)
 
-This figure shows the activities shark attack victims across the globe were doing at the time they were attacked. By far the most attacks happen while the victim is surfing, closely followed by swimming. 
+This figure shows the activities shark attack victims across the globe were doing at the time they were attacked. By far the most attacks happen while the victim is surfing, followed by swimming. The activity with the least attacks is wind surfing. 
 
 **Analysis**
+
+For my analysis I wanted to findout more about to attacks and see whether they were provoked or unprovoked. 
