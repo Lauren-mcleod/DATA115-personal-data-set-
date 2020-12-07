@@ -6,7 +6,7 @@
   
  **Data sources**
  
- The raw data came from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm). The GSAF is an organization providing an excel document with the details of reported shark attacks. This includes the location, activity, type of shark, and the injuries from the attack. The raw data comes from the The Global Shark Attack File's field reporters spread all over the globe gathering data. Additionally, anyone can contact them to report an attack, which the organization will investigate and add to their data. 
+ The raw data came from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm). The GSAF is an organization providing an excel document with the details of reported shark attacks. This includes the location, activity, type of shark, and the injuries from the attack. The raw data comes from the The Global Shark Attack File's field reporters spread all over the globe gathering data. Additionally, anyone can contact them to report an attack, which the organization will investigate and verify the information before adding it to their data. 
  
  **Processing Steps**
  
